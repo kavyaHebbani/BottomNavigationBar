@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavigationBar</string>
+
+    <string name="navbar_sports">Sports</string>
+    <string name="navbar_music">Music</string>
+    <string name="navbar_entertainment">Entertainment</string>
+</resources>

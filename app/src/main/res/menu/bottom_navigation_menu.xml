@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/action_music"
+            android:enabled="true"
+            android:icon="@drawable/ic_audiotrack_black_24dp"
+            android:title="@string/navbar_music"
+            app:showAsAction="ifRoom" />
+    <item
+            android:id="@+id/action_sports"
+            android:enabled="true"
+            android:icon="@drawable/ic_directions_run_black_24dp"
+            android:title="@string/navbar_sports"
+            app:showAsAction="ifRoom" />
+    <item
+            android:id="@+id/action_entertainment"
+            android:enabled="true"
+            android:icon="@drawable/ic_insert_emoticon_black_24dp"
+            android:title="@string/navbar_entertainment"
+            app:showAsAction="ifRoom" />
+</menu>
